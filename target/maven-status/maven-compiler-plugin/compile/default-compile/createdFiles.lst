@@ -1,0 +1,9 @@
+com\yb\model\StudentExample$GeneratedCriteria.class
+com\yb\controller\StudentController.class
+com\yb\service\StudentService.class
+com\yb\model\StudentExample.class
+com\yb\dao\StudentMapper.class
+com\yb\service\impl\StudentServiceImpl.class
+com\yb\model\StudentExample$Criteria.class
+com\yb\model\StudentExample$Criterion.class
+com\yb\model\Student.class
